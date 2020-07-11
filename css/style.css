@@ -114,6 +114,25 @@ ul {
     font-weight: bolder;
 }
 
+#product-title {
+  background-color: darkgray;
+  width: 100%;
+  display: block;
+}
+
+#video-title {
+  background-color: darkgray;
+  width: 100%;
+  display: block;
+}
+
+#pricing-title {
+  background-color: darkgray;
+  width: 100%;
+  display: block;
+  margin-bottom: 1em;
+}
+
 #submit {
     margin-bottom: 4em;
     cursor: pointer;
@@ -124,5 +143,3 @@ ul {
     margin-top: 3em;
     border: 1px solid darkgray;
 }
-
-
