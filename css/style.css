@@ -2,3 +2,13 @@ nav {
     top: 0;
     position: absolute;
 }
+
+body {
+  display: flex;
+}
+
+@media screen and (max-widt: 600px) {
+  body {
+    background-color: lightgrey;
+  }
+}
