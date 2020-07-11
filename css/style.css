@@ -81,8 +81,48 @@ body {
 }
 
 
+
 @media screen and (max-widt: 600px) {
   body {
     background-color: lightgrey;
   }
 }
+
+#pricing {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 8em;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+    border-right: 2px solid darkgreen;
+    padding-right: 1em;
+    border-left: 2px solid darkgreen;
+    padding-left: 1em;
+    margin-right: 2em;
+    margin-left: 2em;
+}
+
+.service-title {
+    background-color: darkgrey;
+    width: 100%;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#submit {
+    margin-bottom: 4em;
+    cursor: pointer;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background-color: rgb(129, 175, 129);
+    letter-spacing: 0.5em;
+    margin-top: 3em;
+    border: 1px solid darkgray;
+}
+
+
