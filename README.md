@@ -1,5 +1,7 @@
-# FCC Test Suite Template
+# Microverse Trials Product Landing Page
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+This project was done by kimotho and greg as part of the pre-qualification process to join Microverse.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+It is a landing page for a computer repair shop mae using HTML and CSS.
+
+To view the demo [Click here](https://kimothokamau.github.io/microverse-trials-landing-page/) 
